@@ -42,6 +42,6 @@ Visually estimate the result by plotting the daily minimum temperature of each o
 Export the DataFrame to a CSV file.
 
 
-# Reascources used to complete this module 
+# Resources used to complete this module 
 
 In class activites, study group, stack overflow, Google, TAs
